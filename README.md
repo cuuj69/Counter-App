@@ -1,2 +1,2 @@
 # Counter-App
-Learning JavaScript(Scrimba.com) Inspired 
+Learning JavaScript with Scrimba.com
